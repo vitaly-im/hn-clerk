@@ -39,4 +39,3 @@ type Vote @model {
   item: Item!
   positive: Boolean!
 }
-
